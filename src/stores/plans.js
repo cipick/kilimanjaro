@@ -1,0 +1,62 @@
+export default [
+  {
+    title: 'Classic Plan',
+    description: 'Our widest variety of meat, fish, and seasonal produce.',
+    shipping: 'FREE Shipping!',
+    mealsLabel: 'Recipes per week',
+    sizeLabel: 'Number of People',
+    cta: 'Select this plan',
+    price: '$ 9.99',
+    perServingLabel: '',
+    meals_0: '2',
+    meals_1: '3',
+    meals_2: '4',
+    sizes_0: '2',
+    sizes_1: '4'
+  },
+  {
+    title: 'Family Plan',
+    description: 'Quick and easy meals with all the YUM-worthy flavor the whole family loves.',
+    shipping: 'FREE Shipping!',
+    mealsLabel: 'Recipes per week',
+    sizeLabel: 'Number of People',
+    cta: 'Select this plan',
+    price: '$ 8.74',
+    perServingLabel: '',
+    meals_0: '2',
+    meals_1: '3',
+    meals_2: '4',
+    sizes_0: '2',
+    sizes_1: '4'
+  },
+  {
+    title: 'Veggie Plan',
+    description: 'Vegetarian recipes with plant-based proteins, grains, and seasonal produce.',
+    shipping: 'FREE Shipping!',
+    mealsLabel: 'Recipes per week',
+    sizeLabel: 'Number of People',
+    cta: 'Select this plan',
+    price: '$ 9.99',
+    perServingLabel: '',
+    meals_0: '2',
+    meals_1: '3',
+    meals_2: '4',
+    sizes_0: '2',
+    sizes_1: '4'
+  },
+  {
+    title: 'Family Plan',
+    description: 'Our widest variety of meat, fish, and seasonal produce.',
+    shipping: 'FREE Shipping!',
+    mealsLabel: 'Recipes per week',
+    sizeLabel: 'Number of People',
+    cta: 'Select this plan',
+    price: '$ 9.99',
+    perServingLabel: '',
+    meals_0: '2',
+    meals_1: '3',
+    meals_2: '4',
+    sizes_0: '2',
+    sizes_1: '4'
+  }
+]
